@@ -32,7 +32,7 @@ Check out the live website here: [Portfolio Link](https://portfolio-82q1.vercel.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/kjkrishnakj/Krishna-Jaiswal-Portfolio.git
 
 # Go to folder
 cd portfolio
